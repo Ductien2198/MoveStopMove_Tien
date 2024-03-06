@@ -1,6 +1,6 @@
 # MoveStopMove_Tien
 
- MoveIo_Game
+# MoveStopMove_Game
 _Gameplay:
 
 Player:
